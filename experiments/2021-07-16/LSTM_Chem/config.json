@@ -20,11 +20,11 @@
     "finetune_epochs": 20,
     "finetune_batch_size": 1,
     "finetune_data_filename": "/content/drive/MyDrive/drug_discovery/COVID-19_Drug_Discovery/generations/gen0_smiles.smi",
-    "config_file": "/content/drive/MyDrive/drug_discovery/config.json",
+    "config_file": "/content/drive/MyDrive/drug_discovery/COVID-19_Drug_Discovery/config.json",
     "exp_dir": "/content/drive/MyDrive/drug_discovery/COVID-19_Drug_Discovery/",
-    "tensorboard_log_dir": "/content/drive/MyDrive/drug_discovery/COVID-19_Drug_Discovery/logs",
+    "tensorboard_log_dir": "/content/drive/MyDrive/drug_discovery/COVID-19_Drug_Discovery/logs/",
     "checkpoint_dir": "/content/drive/MyDrive/drug_discovery/COVID-19_Drug_Discovery/checkpoints/",
     "train_smi_max_len": 128,
-    "model_arch_filename": "/content/drive/MyDrive/drug_discovery/model_arch.json",
+    "model_arch_filename": "/content/drive/MyDrive/drug_discovery/COVID-19_Drug_Discovery/model_arch.json",
     "model_weight_filename": "/content/drive/MyDrive/drug_discovery/COVID-19_Drug_Discovery/checkpoints/LSTM_Chem-02-0.17.hdf5"
 }
